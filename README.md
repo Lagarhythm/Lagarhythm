@@ -1,4 +1,4 @@
-# Hi,
+# Hi, I'm Christopher Earl
 
 Computer Science student at CSUSB with an emphasis in **Cybersecurity & AI**.
 I compete in CTFs, lead security club meetings, and spend my free time breaking things on TryHackMe and OverTheWire.
